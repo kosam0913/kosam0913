@@ -1,27 +1,21 @@
-# Hi there, Xinjie here 👋
+# Hi, I'm Xinjie 👋
 
-I'm a **Technical Artist** in the content creation industry, currently working my way into full-stack development to create cool stuff.
+**Technical Product Manager** with roots in CG/VFX and game production. Built production systems at ILM Singapore, applied that foundation to game infrastructure and Motion AI at miHoYo, then shifted toward generative and agentic AI workflows at Manus.
 
-## 🎨 What I Do
-- MLOps + Deep Learning
-- Develop solutions and automate workflows to help studios run smoothly and deliver efficiently
-- Build things that are pretty, useful, and fun
+A career arc from deterministic pipelines to autonomous systems, always at the intersection of artist workflows, ML systems, and product. Reducing entropy, building products that last.
 
-## 🛠️ Top Skills
-- Developer (Python is my go-to language)
-- Turning ideas into reality (⚡️high execution power)
-- Breaking down complex problems into executable plans
-- Solving challenges with curiosity and a bit of humor
+## 1️⃣ What I'm Working On
+- Building toward PM roles at the intersection of agentic AI and creative tooling.
+- Exploring AI market trends and enterprise adoption in the Middle East.
 
-## 🚀 Favorite Projects
-- **treeview**: My current pride and joy (not open source... yet, but it's [right here](https://chromewebstore.google.com/detail/notion-task-tree-viewer/ckoknomfbeadbnmkppidchmhmeaflbka))
-- **github.io**: Brain by me, hands by Cursor — thank you [Anthropic](https://www.anthropic.com/), for making self-advertising a bit easier
+## 2️⃣Indie Builds
+- [Treeview](https://chromewebstore.google.com/detail/notion-treeview/ckoknomfbeadbnmkppidchmhmeaflbka): Chrome extension for structural visualization of Notion databases. [Rank #9](https://www.producthunt.com/products/notion-treeview/launches/notion-treeview) on Product Hunt Daily Launch.
+- [UCG Mini Program](https://kosam0913.github.io/portfolio/ucg/index.html): Local lifestyle platform for the UAE Chinese community, built on WeChat.
 
-## 🌐 Find Me Online
-- Portfolio: [kosam0913.github.io](https://kosam0913.github.io)
-- Email: [kosam0913@gmail.com](mailto:kosam0913@gmail.com)
+## 3️⃣ Expertise
+Technical PM · MLOps · Large-scale Production Systems · Agentic AI Workflows
 
-## 🏸 Fun Facts
+## 😎 Fun Facts
 - Love badminton — certified badminton umpire (三级裁判证)
-- Used to love adventure sports (30s already, zen mode 👩‍🍳)
 - Always up for a steep learning curve
+- Have three cats
